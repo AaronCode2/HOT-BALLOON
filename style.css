@@ -1,0 +1,67 @@
+
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas{
+    image-rendering: optimizeQuality;
+    background-color: rgb(93, 93, 93);
+}
+
+h1{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    font-family: monospace;
+    font-size: 4rem;
+    color: beige;
+}
+
+h2{
+    position: absolute;
+    top: 10px;
+    color: beige;
+    left: 580px;
+    font-family: monospace;
+    font-size: 2rem;
+}
+
+h3{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    color: beige;
+    font-family: monospace;
+    font-size: 2rem;
+}
+
+h5{
+    position: absolute;
+    top: 5px;
+    left: 400px;
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5rem;
+}
+
+h6{
+    position: absolute;
+    top: 546px;
+    left: 1280px;
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;   
+}
+
+button {
+    position: absolute;
+    top: 270px;
+    left: 560px;
+    color: beige;
+    background: none;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: 4rem;
+}
